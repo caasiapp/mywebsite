@@ -1,0 +1,32 @@
+body {
+    background-color: #f9fbfd;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+ul {
+	columns: 2;
+    margin: 0 auto;
+    text-align: left;
+    line-height: 150%;
+}
+.aboutme{
+display: flex;
+
+}
+
+h1 {
+font-size: 40px;
+}
+
+img {
+    display: block;
+    float: right;
+  }
+
+#main {
+background-color: #f9fbfd;
+max-width: 700px;
+margin: auto
+
+}
